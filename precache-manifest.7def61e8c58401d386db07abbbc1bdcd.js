@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d460790bc1f6dc6a2267d6bc7abbfd0",
+    "revision": "fda69b865904e91cd3135ecfa996df1e",
     "url": "/Tindev/index.html"
   },
   {
-    "revision": "dafbe1f4682ffec67855",
+    "revision": "3765bbc83c1fe18310aa",
     "url": "/Tindev/static/css/main.95bc63f3.chunk.css"
   },
   {
-    "revision": "09b6f8522c8d33426615",
-    "url": "/Tindev/static/js/2.6f6adfef.chunk.js"
+    "revision": "83a467aac8ac35e43eaa",
+    "url": "/Tindev/static/js/2.1c54ad2d.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/Tindev/static/js/2.6f6adfef.chunk.js.LICENSE.txt"
+    "url": "/Tindev/static/js/2.1c54ad2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dafbe1f4682ffec67855",
-    "url": "/Tindev/static/js/main.0ba58478.chunk.js"
+    "revision": "3765bbc83c1fe18310aa",
+    "url": "/Tindev/static/js/main.b285292b.chunk.js"
   },
   {
     "revision": "848ac69948244f0c5427",

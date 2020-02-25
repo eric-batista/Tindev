@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Tindev/static/css/main.95bc63f3.chunk.css",
-    "main.js": "/Tindev/static/js/main.0ba58478.chunk.js",
-    "main.js.map": "/Tindev/static/js/main.0ba58478.chunk.js.map",
+    "main.js": "/Tindev/static/js/main.b285292b.chunk.js",
+    "main.js.map": "/Tindev/static/js/main.b285292b.chunk.js.map",
     "runtime-main.js": "/Tindev/static/js/runtime-main.74c207af.js",
     "runtime-main.js.map": "/Tindev/static/js/runtime-main.74c207af.js.map",
-    "static/js/2.6f6adfef.chunk.js": "/Tindev/static/js/2.6f6adfef.chunk.js",
-    "static/js/2.6f6adfef.chunk.js.map": "/Tindev/static/js/2.6f6adfef.chunk.js.map",
+    "static/js/2.1c54ad2d.chunk.js": "/Tindev/static/js/2.1c54ad2d.chunk.js",
+    "static/js/2.1c54ad2d.chunk.js.map": "/Tindev/static/js/2.1c54ad2d.chunk.js.map",
     "index.html": "/Tindev/index.html",
-    "precache-manifest.fd37bfc046fe717f53412eb19f17fc73.js": "/Tindev/precache-manifest.fd37bfc046fe717f53412eb19f17fc73.js",
+    "precache-manifest.7def61e8c58401d386db07abbbc1bdcd.js": "/Tindev/precache-manifest.7def61e8c58401d386db07abbbc1bdcd.js",
     "service-worker.js": "/Tindev/service-worker.js",
     "static/css/main.95bc63f3.chunk.css.map": "/Tindev/static/css/main.95bc63f3.chunk.css.map",
-    "static/js/2.6f6adfef.chunk.js.LICENSE.txt": "/Tindev/static/js/2.6f6adfef.chunk.js.LICENSE.txt",
+    "static/js/2.1c54ad2d.chunk.js.LICENSE.txt": "/Tindev/static/js/2.1c54ad2d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Tindev/static/media/logo.6a01ceef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.74c207af.js",
-    "static/js/2.6f6adfef.chunk.js",
+    "static/js/2.1c54ad2d.chunk.js",
     "static/css/main.95bc63f3.chunk.css",
-    "static/js/main.0ba58478.chunk.js"
+    "static/js/main.b285292b.chunk.js"
   ]
 }

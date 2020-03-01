@@ -87,3 +87,10 @@
     border: 2px solid #FF000044;
     background-color: #FF000011;
 }
+
+.main-container .empty {
+    font-size: 32px;
+    color: #999;
+    font-weight: bold;
+    margin-top: 300px;
+}
